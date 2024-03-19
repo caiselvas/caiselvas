@@ -16,7 +16,7 @@ I'm an Artificial Intelligence student at the Universitat Politècnica de Catalu
 - **[Datathon FME 2023] NTT Data challenge**: A project that forecasted the next year’s required purchases for a set of hospitals using time series analysis.
 
 ## Past Education
-- **Technological Baccalaureate (2020 - 2022)**, Institut Escola Industrial, Sabadell, Spain. Grade: 9.1 (with honours), Selectivity (PAU) grade: 12.44.
+- **Technological Baccalaureate (2020 - 2022)**: Institut Escola Industrial, Sabadell, Spain. Grade: 9.1 (with honours), Selectivity (PAU) grade: 12.44.
 
 ## Languages
 - Spanish (Native)
