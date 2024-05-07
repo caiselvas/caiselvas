@@ -25,4 +25,4 @@ I'm an Artificial Intelligence student at the Universitat Politècnica de Catalu
 
 ## Past Studies
 - **Technological Baccalaureate (2020 - 2022)**: Institut Escola Industrial, Sabadell, Spain.
-- - GPA: 9.1 (with honours). Selectivity (PAU) grade: 12.44.
+  - GPA: 9.1 (with honours). Selectivity (PAU) grade: 12.44.
