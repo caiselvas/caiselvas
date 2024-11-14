@@ -6,7 +6,7 @@ I'm an Artificial Intelligence student at the Universitat Politècnica de Catalu
 ## Current Studies
 - 📚 **Bachelor's degree in Artificial Intelligence (2022 - Present)**: Universitat Politècnica de Catalunya (UPC), Barcelona, Spain.
 - 🏆 **Achievements**: Highest honors in Programming and Algorithms I, Mentor of newcomers, Member of Junta de la FIB (Shoool Board of Barcelona School of Informatics).
-- 📈 **Grade**: Current GPA: 8.55/10.
+- 📈 **Current Grade**: 8.55/10.
 
 ## Skills
 - **Programming Languages**: Python, R, SQL, C, C++, PDDL, CLIPS.
