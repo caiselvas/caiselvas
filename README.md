@@ -18,7 +18,7 @@ I'm an Artificial Intelligence student at the Universitat Politècnica de Catalu
 - **[Challenge IA i Auditoria 2024] Winner project**: A project to predict the inventory impairment using advanced AI models such as autoencoders (NN), advanced time series algorithms, EBM for explaining the results, word embeddings, RAG to interpret the results and more. We emerged to create a model user friendly in order to help auditors with their work.
 - **[Datathon FME 2023] NTT Data challenge**: A project that forecasted the next year’s required purchases for a set of hospitals using time series analysis.
 - **[HackUPC 2023] Winner of Bunge’s challenge**: Developed a program that processes requests in natural language to extract information from large datasets.
-- 
+
 ## Languages
 - Spanish (Native).
 - Catalan (Native).
