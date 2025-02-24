@@ -5,12 +5,14 @@ I'm an Artificial Intelligence student at the Universitat Politècnica de Catalu
 
 ## Current Studies
 - 📚 **Bachelor's degree in Artificial Intelligence (2022 - Present)**: Universitat Politècnica de Catalunya (UPC), Barcelona, Spain.
-- 🏆 **Achievements**: Highest honors in Programming and Algorithms I, Mentor of newcomers, Member of Junta de la FIB (Shoool Board of Barcelona School of Informatics).
-- 📈 **Current Grade**: 8.55/10.
+- 🏆 **Achievements**:
+  - Highest honors in Reinforcement and Unsupervised Learning, Programming and Algorithms I.
+  - Mentor of newcomers.
+- 📈 **Current Grade**: 8.73/10.
 
 ## Skills
-- **Programming Languages**: Python, R, SQL, C, C++, PDDL, CLIPS.
-- **Main Skills**: Machine Learning, AI algorithms, Deep Learning & Neural Networks, Data Science & Data Analysis, Natural Language Processing (NLP), Mathematics & Statistics, Parallelization.
+- **Programming Languages**: Python, R, SQL, C/C++, MATLAB.
+- **Main Skills**: Machine Learning, Deep Learning, Computer Vision, Reinforcement Learning, Unsupervised Learning, Natural Language Processing (NLP), AI Algorithms, Data Science and Data Analysis, Mathematics and Statistics
 
 ## Hackathons and Events
 - **[Aina Hack 2024] Winner project (LaIA)**: LaIA is an AI assistant for Catalan administration that simplifies access by accepting files and images as inputs, supporting internet searches, and generating informative text and video outputs to guide users through administrative processes.
@@ -20,10 +22,10 @@ I'm an Artificial Intelligence student at the Universitat Politècnica de Catalu
 - **[HackUPC 2023] Winner of Bunge’s challenge**: Developed a program that processes requests in natural language to extract information from large datasets.
 
 ## Languages
+- English (Advanced).
 - Spanish (Native).
 - Catalan (Native).
-- English (Advanced).
 
 ## Past Studies
 - **Technological Baccalaureate (2020 - 2022)**: Institut Escola Industrial, Sabadell, Spain.
-  - Grade: 9.1 (highest honors). Selectivity (PAU) grade: 12.44.
+  - Grade: 9.1 (with honors). Selectivity (PAU) grade: 12.44/14.
