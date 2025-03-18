@@ -1,7 +1,7 @@
 # Cai Selvas Sala
 
 ## About Me
-I'm an Artificial Intelligence student at the Universitat Politècnica de Catalunya (UPC), passionate about leveraging Machine Learning, Deep Learning, Data Science and Data Analysis to solve complex problems. With a solid foundation in programming languages and AI, I strive to create impactful solutions in the field of AI.
+I'm an Artificial Intelligence student at the Universitat Politècnica de Catalunya (UPC), passionate about leveraging Machine Learning, Deep Learning, Data Science and Data Analysis to solve complex problems. With a solid foundation in programming languages and AI, I strive to create impactful solutions in the field of Artificial Intelligence.
 
 ## Current Studies
 - 📚 **Bachelor's degree in Artificial Intelligence (2022 - Present)**: Universitat Politècnica de Catalunya (UPC), Barcelona, Spain.
