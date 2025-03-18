@@ -1,7 +1,7 @@
 # Cai Selvas Sala
 
 ## About Me
-I'm an Artificial Intelligence student at the Universitat Politècnica de Catalunya (UPC), passionate about leveraging machine learning, deep learning, data science and data analysis to solve complex problems. With a solid foundation in programming languages and AI, I strive to create impactful solutions in the field of artificial intelligence.
+I'm an Artificial Intelligence student at the Universitat Politècnica de Catalunya (UPC), passionate about leveraging Machine Learning, Deep Learning, Data Science and Data Analysis to solve complex problems. With a solid foundation in programming languages and AI, I strive to create impactful solutions in the field of AI.
 
 ## Current Studies
 - 📚 **Bachelor's degree in Artificial Intelligence (2022 - Present)**: Universitat Politècnica de Catalunya (UPC), Barcelona, Spain.
@@ -12,7 +12,7 @@ I'm an Artificial Intelligence student at the Universitat Politècnica de Catalu
 
 ## Skills
 - **Programming Languages**: Python, R, SQL, C/C++, MATLAB.
-- **Main Skills**: Machine Learning, Deep Learning, Computer Vision, Reinforcement Learning, Unsupervised Learning, Natural Language Processing (NLP), AI Algorithms, Data Science and Data Analysis, Mathematics and Statistics
+- **Main Skills**: Machine Learning, Deep Learning, Computer Vision, Reinforcement Learning, Unsupervised Learning, Natural Language Processing (NLP), AI Algorithms, Data Science, Data Analysis, Mathematics, and Statistics
 
 ## Hackathons and Events
 - **[Aina Hack 2024] Winner project (LaIA)**: LaIA is an AI assistant for Catalan administration that simplifies access by accepting files and images as inputs, supporting internet searches, and generating informative text and video outputs to guide users through administrative processes.
@@ -22,10 +22,10 @@ I'm an Artificial Intelligence student at the Universitat Politècnica de Catalu
 - **[HackUPC 2023] Winner of Bunge’s challenge**: Developed a program that processes requests in natural language to extract information from large datasets.
 
 ## Languages
-- English (Advanced).
+- English (C2 Level - Cambridge C1 Advanced Score: 202).
 - Spanish (Native).
 - Catalan (Native).
 
 ## Past Studies
 - **Technological Baccalaureate (2020 - 2022)**: Institut Escola Industrial, Sabadell, Spain.
-  - Grade: 9.1 (with honors). Selectivity (PAU) grade: 12.44/14.
+  - Grade: 9.1/10 (with honors), 12.44/14 (Selectivitat/PAU).
