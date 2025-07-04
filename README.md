@@ -7,7 +7,7 @@ I'm an Artificial Intelligence student at the Universitat Politècnica de Catalu
 - **Bachelor's degree in Artificial Intelligence (2022 - Present)**: Universitat Politècnica de Catalunya (UPC), Barcelona, Spain.
   - Highest honors in Reinforcement and Unsupervised Learning, Programming and Algorithms I.
   - Mentor of newcomers.
-  - **Current GPA**: 8.73/10.
+  - **Current GPA**: 8.83/10.
 
 ## Experience
 - **Research Intern at Computer Vision Center (2025 - Present)**: Researching Machine Unlearning techniques for Vision-Language Models (e.g., CLIP, SigLIP, LLaVA), focusing on ensuring data privacy while minimizing the impact on overall model performance.
