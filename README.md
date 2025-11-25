@@ -12,8 +12,10 @@
 🚀 I am passionate about building innovative AI solutions and am always looking for the next complex problem to solve.
 
 ## Links and Contact
-- [LinkedIn](https://www.linkedin.com/in/caiselvas/)
-- [Hugging Face](https://huggingface.co/caiselvas)
-- [ORCID](https://orcid.org/0009-0003-3695-7066)
-- [Devpost](https://devpost.com/caiselvas)
-- [Mail](mailto:caiselvassala@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/caiselvas/">LinkedIn</a> |
+  <a href="https://huggingface.co/caiselvas">Hugging Face</a> |
+  <a href="https://orcid.org/0009-0003-3695-7066">ORCID</a> |
+  <a href="https://devpost.com/caiselvas">Devpost</a> |
+  <a href="mailto:caiselvassala@gmail.com">Mail</a>
+</p>
