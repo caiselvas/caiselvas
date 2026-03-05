@@ -1,15 +1,11 @@
 # Cai Selvas Sala
 
 ## About Me
-🎓 BSc in Artificial Intelligence student at the Universitat Politècnica de Catalunya (UPC) (GPA: 8.83/10). I am currently an exchange student at the Technical University of Munich (TUM), focusing on advanced Deep Learning and Computer Vision.
+I am a BSc student in Artificial Intelligence at the Universitat Politècnica de Catalunya (UPC), currently on exchange at the Technical University of Munich (TUM), focusing on Deep Learning and Computer Vision.
 
-🔬 As a Research Intern at the Computer Vision Center (CVC), I first-authored a research paper on a novel benchmark for Machine Unlearning in CLIP, which involved training large-scale models and engineering a synthetic dataset for sensitive data removal.
+I worked as a Research Intern at the Computer Vision Center (CVC), where I first-authored a paper introducing a benchmark for machine unlearning in CLIP models, accepted at the CVPR 2026 main conference.
 
-🏆 I thrive on practical, high-pressure challenges and have an award-winning track record in AI-focused hackathons. My academic work includes Honors for "Unsupervised and Reinforcement Learning" and "Programming and Algorithms I".
-
-💻 Core Expertise: Machine Learning, Deep Learning, Computer Vision, Reinforcement Learning, and NLP.
-
-🚀 I am passionate about building innovative AI solutions and am always looking for the next complex problem to solve.
+My interests include deep learning, continual learning, reinforcement learning, computer vision, self-supervised learning, and foundation models.
 
 ## Links and Contact
 <p align="center">
