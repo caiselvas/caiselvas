@@ -9,9 +9,10 @@ My interests include deep learning, continual learning, reinforcement learning, 
 
 ## Links and Contact
 <p align="center">
+  <a href="https://caiselvas.github.io/">Personal Website</a> |
   <a href="https://www.linkedin.com/in/caiselvas/">LinkedIn</a> |
   <a href="https://huggingface.co/caiselvas">Hugging Face</a> |
   <a href="https://orcid.org/0009-0003-3695-7066">ORCID</a> |
   <a href="https://devpost.com/caiselvas">Devpost</a> |
-  <a href="mailto:caiselvassala@gmail.com">Mail</a>
+  <a href="mailto:caiselvassala@gmail.com">Email</a>
 </p>
