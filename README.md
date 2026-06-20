@@ -1,4 +1,4 @@
-# Cai Selvas Sala
+# Cai Selvas-Sala
 
 ## About Me
 Final-year AI student at the Universitat Politècnica de Catalunya (UPC), with an exchange semester at the Technical University of Munich (TUM) and research experience at the Computer Vision Center (CVC).
