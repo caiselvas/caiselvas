@@ -1,11 +1,11 @@
 # Cai Selvas-Sala
 
 ## About Me
-Final-year AI student at the Universitat Politècnica de Catalunya (UPC), with an exchange semester at the Technical University of Munich (TUM) and research experience at the Computer Vision Center (CVC).
+I'm currently pursuing an MSc in Computer Science at ETH Zurich, specialising in Machine Intelligence. I hold a BSc in Artificial Intelligence from the Universitat Politècnica de Catalunya (UPC), including an exchange semester at the Technical University of Munich (TUM).
 
-First author of a CVPR 2026 (main conference) paper on multimodal machine unlearning in CLIP models. Currently working on continual learning for foundation models in my Bachelor's Thesis.
+My research experience at the Computer Vision Center (CVC) has focused on multimodal machine unlearning and continual learning for pretrained vision models. I'm the first author of SALMUBench (CVPR 2026, main conference), and my Bachelor's thesis explored parameter-efficient continual learning and the preservation of pretrained model capabilities.
 
-Interests: deep learning, representation learning, continual learning, and computer vision.
+I'm particularly interested in foundation models, continual and lifelong learning, and computer vision, with growing interests in world models, spatial intelligence, and robot learning.
 
 ## Links and Contact
 <p align="center">
